@@ -1,10 +1,11 @@
 public class Car {
 
     private String name;
-
     @Override
     public String toString() {
-        return name;
+        return "Car{" +
+                "name='" + name + '\'' +
+                '}';
     }
 
     Car(String name) {
@@ -14,6 +15,4 @@ public class Car {
     public int length() {
         return name.length();
     }
-
-
 }
