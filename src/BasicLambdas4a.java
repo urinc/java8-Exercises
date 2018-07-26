@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.function.Predicate;
 
 public class BasicLambdas4a {
 
@@ -12,11 +13,11 @@ public class BasicLambdas4a {
         System.out.println(allMatches(words, s -> s.contains("b")));
     }
 
-    static <T> List<T> allMatches(List<T> list, ListAnyPredicate<T> lambda) {
+    static <T> List<T> allMatches(List<T> list, Predicate <T> lambda) {
         List<T> tmp = new ArrayList<>();
-        list.forEach(el -> {
-            if (lambda.match(el)) {
-                tmp.add(el);
+        list.forEach(element -> {
+            if (lambda.test(element)) {
+                tmp.add(element);
             }
         });
         return tmp;
