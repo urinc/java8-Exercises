@@ -3,14 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="30bf2474-5841-4636-95d7-552d4567effe" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercises8/Basic_Lambdas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercises8/Basic_Lambdas_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercises8/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercises8/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercises8/Compare.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercises8/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicLambdas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicLambdas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicLambdas3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicLambdas3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TwoElementPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoElementPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises8/BasicLambdas4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercises8/BasicLambdas4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises8/ListPredicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercises8/ListPredicate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicLambdas4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicLambdas4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListPredicate.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6594789">
+    <splitter split-orientation="horizontal" split-proportion="0.615257">
       <split-first>
         <leaf>
           <file leaf-file-name="BasicLambdas.java" pinned="false" current-in-tab="false">
@@ -39,11 +35,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="BasicLambdas4.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="BasicLambdas4.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/BasicLambdas4.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
-                  <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+                <state relative-caret-position="255">
+                  <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -51,23 +47,13 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Iterable.java" pinned="false" current-in-tab="false">
-            <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Iterable.java">
+          <file leaf-file-name="BasicLambdas4a.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/BasicLambdas4a.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="331">
-                  <caret line="69" column="17" lean-forward="true" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="BasicLambdas2.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/BasicLambdas2.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="105">
-                  <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+                <state relative-caret-position="225">
+                  <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
                   <folding>
-                    <element signature="e#77#78#0" expanded="true" />
-                    <element signature="e#119#120#0" expanded="true" />
+                    <element signature="imports" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -76,8 +62,12 @@
           <file leaf-file-name="BasicLambdas3.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/BasicLambdas3.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
+                <state relative-caret-position="195">
                   <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+                  <folding>
+                    <element signature="e#73#74#0" expanded="true" />
+                    <element signature="e#96#97#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -122,8 +112,17 @@
           <file leaf-file-name="ListPredicate.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/ListPredicate.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="30">
-                  <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+                <state relative-caret-position="60">
+                  <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ListAnyPredicate.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/ListAnyPredicate.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
+                  <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
                 </state>
               </provider>
             </entry>
@@ -131,8 +130,8 @@
           <file leaf-file-name="BasicLambdas3.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/BasicLambdas3.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="165">
-                  <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+                <state relative-caret-position="195">
+                  <caret line="13" column="76" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="80" />
                   <folding>
                     <element signature="e#73#74#0" expanded="true" />
                     <element signature="e#100#101#0" expanded="true" />
@@ -172,8 +171,11 @@
         <option value="$PROJECT_DIR$/src/BasicLambdas.java" />
         <option value="$PROJECT_DIR$/src/BasicLambdas3.java" />
         <option value="$PROJECT_DIR$/src/ForDel.java" />
-        <option value="$PROJECT_DIR$/src/ListPredicate.java" />
+        <option value="$PROJECT_DIR$/src/BasicLambdas4a" />
+        <option value="$PROJECT_DIR$/src/ListAnyPredicate.java" />
         <option value="$PROJECT_DIR$/src/BasicLambdas4.java" />
+        <option value="$PROJECT_DIR$/src/ListPredicate.java" />
+        <option value="$PROJECT_DIR$/src/BasicLambdas4a.java" />
       </list>
     </option>
   </component>
@@ -242,14 +244,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BasicLambdas4">
+  <component name="RunManager" selected="Application.BasicLambdas4a">
     <configuration name="BasicLambdas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicLambdas" />
-      <module name="Exercises8" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="BasicLambdas2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicLambdas2" />
       <module name="Exercises8" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -260,6 +257,11 @@
     </configuration>
     <configuration name="BasicLambdas4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicLambdas4" />
+      <module name="Exercises8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="BasicLambdas4a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicLambdas4a" />
       <module name="Exercises8" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -311,18 +313,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.BasicLambdas" />
-      <item itemvalue="Application.BasicLambdas2" />
       <item itemvalue="Application.BasicLambdas3" />
       <item itemvalue="Application.ForDel" />
       <item itemvalue="Application.BasicLambdas4" />
+      <item itemvalue="Application.BasicLambdas4a" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BasicLambdas4a" />
         <item itemvalue="Application.BasicLambdas4" />
         <item itemvalue="Application.ForDel" />
         <item itemvalue="Application.BasicLambdas" />
         <item itemvalue="Application.BasicLambdas3" />
-        <item itemvalue="Application.BasicLambdas2" />
       </list>
     </recent_temporary>
   </component>
@@ -336,12 +338,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532509449871</updated>
-      <workItem from="1532509453835" duration="28303000" />
+      <workItem from="1532509453835" duration="30778000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28303000" />
+    <option name="totallyTimeSpent" value="30778000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="23" width="1392" height="877" extended-state="0" />
@@ -361,7 +363,7 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20043103" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18462643" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -388,17 +390,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BasicLambdas2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-          <folding>
-            <element signature="e#77#78#0" expanded="true" />
-            <element signature="e#119#120#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -429,13 +420,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BasicLambdas3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BasicLambdas.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="347">
@@ -449,13 +433,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Iterable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="69" column="17" lean-forward="true" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ForDel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -466,17 +443,73 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicLambdas4a">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicJavaKambda4a.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="69" column="17" lean-forward="true" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicLambdas2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="e#77#78#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicLambdas3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <folding>
+            <element signature="e#73#74#0" expanded="true" />
+            <element signature="e#96#97#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ListAnyPredicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ListPredicate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BasicLambdas4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        <state relative-caret-position="255">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicLambdas4a.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
