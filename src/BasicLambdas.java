@@ -7,12 +7,12 @@ public class Basic_Lambdas {
 
         String[] arrTmp = arr.clone();
 
-        Arrays.sort(arrTmp, (s1, s2) -> Integer.signum(s1.length() - s2.length()));
+        Arrays.sort(arrTmp, (s1, s2) ->  (int) (s1.length()- s2.length()) );
         System.out.println("Sort by length : " + Arrays.toString(arrTmp));
 
 
         arrTmp = arr.clone();
-        Arrays.sort(arrTmp, (s1, s2) -> Integer.signum(s2.length() - s1.length()));
+        Arrays.sort(arrTmp, (s1, s2) -> s2.length() - s1.length());
         System.out.println("Sort by length desc : " + Arrays.toString(arrTmp));
 
         arrTmp = arr.clone();
