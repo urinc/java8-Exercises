@@ -22,7 +22,7 @@ public class BasicLambdas {
         Arrays.sort(arr, (s1, s2) -> (s2.indexOf('e') - s1.indexOf('e')));
         System.out.println("Sort contains 'e' : " + Arrays.toString(arr));
 
-        Arrays.sort(arr, (s1, s2) -> getIndexContainingE(s1, s2));
+        Arrays.sort(arr, BasicLambdas::getIndexContainingE);
         System.out.println("Previuos by helperMethod: " + Arrays.toString(arr));
         }
 
