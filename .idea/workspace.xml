@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30bf2474-5841-4636-95d7-552d4567effe" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="30bf2474-5841-4636-95d7-552d4567effe" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -73,11 +71,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="LambdaExpressionsPart4.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="LambdaExpressionsPart4.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/LambdaExpressionsPart4.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="221">
-                  <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+                <state relative-caret-position="85">
+                  <caret line="5" column="29" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="35" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -85,11 +83,32 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Predicate.class" pinned="false" current-in-tab="false">
-            <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/java/util/function/Predicate.class">
+          <file leaf-file-name="StreamsPart1.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/StreamsPart1.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="221">
-                  <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="24" />
+                <state relative-caret-position="17">
+                  <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="StreamsPart1a.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/StreamsPart1a.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="391">
+                  <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="BasicLambdas.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/BasicLambdas.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="374">
+                  <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
                 </state>
               </provider>
             </entry>
@@ -131,13 +150,15 @@
         <option value="$PROJECT_DIR$/src/BasicLambdas4a.java" />
         <option value="$PROJECT_DIR$/src/BasicLambdas4b.java" />
         <option value="$PROJECT_DIR$/src/BasicLambdas4c.java" />
-        <option value="$PROJECT_DIR$/src/ForDel.java" />
         <option value="$PROJECT_DIR$/src/IForDel.java" />
         <option value="$PROJECT_DIR$/src/Square.java" />
         <option value="$PROJECT_DIR$/src/EquilateralTriangle.java" />
         <option value="$PROJECT_DIR$/src/RegularPolygon.java" />
         <option value="$PROJECT_DIR$/src/ShapeTest.java" />
         <option value="$PROJECT_DIR$/src/LambdaExpressionsPart4.java" />
+        <option value="$PROJECT_DIR$/src/ForDel.java" />
+        <option value="$PROJECT_DIR$/src/StreamsPart1.java" />
+        <option value="$PROJECT_DIR$/src/StreamsPart1a.java" />
       </list>
     </option>
   </component>
@@ -151,10 +172,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1747" />
-    <option name="y" value="132" />
+    <option name="x" value="1606" />
+    <option name="y" value="333" />
     <option name="width" value="1392" />
-    <option name="height" value="877" />
+    <option name="height" value="874" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -207,19 +228,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LambdaExpressionsPart4">
-    <configuration name="BasicLambdas4c" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicLambdas4c" />
-      <module name="Exercises8" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
+  <component name="RunManager" selected="Application.StreamsPart1a">
     <configuration name="EquilateralTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EquilateralTriangle" />
-      <module name="Exercises8" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="ForDel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForDel" />
       <module name="Exercises8" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -230,6 +241,16 @@
     </configuration>
     <configuration name="ShapeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ShapeTest" />
+      <module name="Exercises8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="StreamsPart1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamsPart1" />
+      <module name="Exercises8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="StreamsPart1a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamsPart1a" />
       <module name="Exercises8" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -275,19 +296,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.ForDel" />
-      <item itemvalue="Application.BasicLambdas4c" />
       <item itemvalue="Application.EquilateralTriangle" />
       <item itemvalue="Application.ShapeTest" />
       <item itemvalue="Application.LambdaExpressionsPart4" />
+      <item itemvalue="Application.StreamsPart1" />
+      <item itemvalue="Application.StreamsPart1a" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamsPart1a" />
+        <item itemvalue="Application.StreamsPart1" />
         <item itemvalue="Application.LambdaExpressionsPart4" />
         <item itemvalue="Application.ShapeTest" />
         <item itemvalue="Application.EquilateralTriangle" />
-        <item itemvalue="Application.ForDel" />
-        <item itemvalue="Application.BasicLambdas4c" />
       </list>
     </recent_temporary>
   </component>
@@ -303,12 +324,12 @@
       <updated>1532509449871</updated>
       <workItem from="1532509453835" duration="39950000" />
       <workItem from="1532763377034" duration="518000" />
-      <workItem from="1532764647320" duration="8079000" />
+      <workItem from="1532764647320" duration="14746000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48547000" />
+    <option name="totallyTimeSpent" value="55214000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1216" extended-state="6" />
@@ -430,13 +451,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BasicLambdas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BasicLambdas4a" />
     <entry file="file://$PROJECT_DIR$/src/BasicJavaKambda4a.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Iterable.java" />
@@ -494,7 +508,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ForDel.java" />
     <entry file="file://$PROJECT_DIR$/src/IForDel.java" />
     <entry file="file://$PROJECT_DIR$/src/EquilateralTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -528,17 +541,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/java/util/function/Predicate.class">
+    <entry file="file://$PROJECT_DIR$/src/ForDel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="24" />
+        <state relative-caret-position="153">
+          <caret line="9" column="63" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LambdaExpressionsPart4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        <state relative-caret-position="85">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StreamsPart1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/java/util/function/Predicate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicLambdas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StreamsPart1a.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
